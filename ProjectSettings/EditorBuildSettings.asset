@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Intro.unity
+    guid: f4591a306b2c1d24aabe191522f1b1e8
   - enabled: 1
-    path: Assets/Scenes/LavaReef.unity
+    path: Assets/Scenes/VolcanicVelocityZone.unity
     guid: bac390f0662c87d48b8bbf213dcddcba
+  - enabled: 0
+    path: Assets/Scenes/TikiJungle.unity
+    guid: fb8ab8792ef233b4f9319aade1999423
+  - enabled: 0
+    path: Assets/Scenes/CyberneticCore.unity
+    guid: 57de29c3fd924d241b672365cea21998
   m_configObjects: {}

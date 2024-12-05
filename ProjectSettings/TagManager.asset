@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Jumper
+  - MovingPlatform
+  - Ring
   layers:
   - Default
   - TransparentFX
@@ -13,9 +16,9 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
-  - 
-  - 
+  - Rings
+  - Springs
+  - MovingPlatform
   - 
   - 
   - 
